@@ -18,7 +18,7 @@ When you've installed the packages, run `jupyter lab` or `jupyter notebook`. The
 # DOI
 
 This analysis has a DOI, and a zipped version of this repository is permanently available at Zenodo:  
-[![DOI](https://zenodo.org/badge/186444269.svg)](https://zenodo.org/badge/latestdoi/186444269)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2791455.svg)](https://doi.org/10.5281/zenodo.2791455)
 
 # License
 

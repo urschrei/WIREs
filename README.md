@@ -16,5 +16,11 @@ for Climate Change Adaptation Since the Rio Earth Summit_. In order to re-create
 When you've installed the packages, run `jupyter lab` or `jupyter notebook`. The primary analysis is contained in [WIREs.ipynb](WIREs.ipynb). A plaintext version of the dataset, derived from an ISI Web of Science search, can be found at [CCA_processed.csv](CCA_processed.csv)
 
 # DOI
+
 This analysis has a DOI, and a zipped version of this repository is permanently available at Zenodo:  
 [![DOI](https://zenodo.org/badge/186444269.svg)](https://zenodo.org/badge/latestdoi/186444269)
+
+# License
+
+All original code in this repository is licensed under the [Blue Oak Model License 1.0](LICENSE.md), and is free to use subject to its terms.
+

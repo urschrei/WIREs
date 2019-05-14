@@ -13,6 +13,8 @@ for Climate Change Adaptation Since the Rio Earth Summit_. In order to re-create
 - Jupyterlab == 0.35.6
 - XLRD == 1.2.0
 
+# Analysis
+
 When you've installed the packages, run `jupyter lab` or `jupyter notebook`. The primary analysis is contained in [WIREs.ipynb](WIREs.ipynb). A plaintext version of the dataset, derived from an ISI Web of Science search, can be found at [CCA_processed.csv](CCA_processed.csv)
 
 # DOI

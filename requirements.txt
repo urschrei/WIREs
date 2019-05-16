@@ -1,9 +1,7 @@
-matplotlib==3.0.2
-rake_nltk==1.0.4
-pandas==0.24.0
-scipy==1.2.0
-Pyzotero==1.3.12
-nltk==3.4
-wordcloud==1.5.0
-Pillow==5.4.1
-scikit_learn==0.20.2
+jupyterlab == 0.35.6
+pandas == 0.24.0
+matplotlib == 1.16.0
+numpy == 1.16.2
+nltk == 3.4
+sklearn == 0.20.2
+xlrd == 1.2.0

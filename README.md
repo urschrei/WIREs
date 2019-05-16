@@ -3,15 +3,13 @@
 These are the materials comprising the scientometric analysis in _Engaging Citizens: A Review of Citizen Participation Strategies
 for Climate Change Adaptation Since the Rio Earth Summit_. In order to re-create the analysis, you'll need to install the following Python packages, using Python **3.7.x**:
 
-- Pandas == 0.24.0
-- Matplotlib == 1.16.0
-- Numpy == 1.16.2
-- NLTK == 3.4
-- Scipy == 1.2.0
-- Scikit-learn == 0.20.2
-- Pillow == 5.4.1
-- Jupyterlab == 0.35.6
-- XLRD == 1.2.0
+- jupyterlab == 0.35.6
+- pandas == 0.24.0
+- matplotlib == 1.16.0
+- numpy == 1.16.2
+- nltk == 3.4
+- sklearn == 0.20.2
+- xlrd == 1.2.0
 
 # Analysis
 

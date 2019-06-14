@@ -13,6 +13,7 @@ for Climate Change Adaptation Since the Rio Earth Summit_. In order to re-create
 - sklearn == 0.20.2
 - xlrd == 1.2.0
 - squarify == 0.4.2
+- statsmodels == 0.9.0
 
 # Analysis
 

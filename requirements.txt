@@ -2,6 +2,6 @@ jupyterlab == 0.35.6
 pandas == 0.24.0
 matplotlib == 1.16.0
 numpy == 1.16.2
-nltk == 3.4
+nltk == 3.4.5
 sklearn == 0.20.2
 xlrd == 1.2.0

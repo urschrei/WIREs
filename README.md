@@ -2,8 +2,7 @@
 
 # Introduction
 
-These are the materials comprising the scientometric analysis in _Engaging Citizens: A Review of Citizen Participation Strategies
-for Climate Change Adaptation Since the Rio Earth Summit_. In order to re-create the analysis, you'll need to install the following Python packages, using Python **3.7.x**:
+These are the materials comprising the scientometric analysis in [_Public Participation, Engagement and Climate Change Adaptation: A Review of the Research Literature_](https://doi.org/10.1002/wcc.645). In order to re-create the analysis, you'll need to install the following Python packages, using Python **3.7.x**:
 
 - jupyterlab == 0.35.6
 - pandas == 0.24.0

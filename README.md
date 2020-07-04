@@ -27,3 +27,4 @@ This analysis has a DOI, and a zipped version of this repository is permanently 
 
 All original code in this repository is licensed under the [Blue Oak Model License 1.0](LICENSE.md), and is free to use subject to its terms.
 
+<a href="https://www.scimagojr.com/journalsearch.php?q=19900191605&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=19900191605" alt="SCImago Journal &amp; Country Rank"  /></a>

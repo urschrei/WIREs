@@ -2,21 +2,19 @@
 
 # Introduction
 
-These are the materials comprising the scientometric analysis in [_Public Participation, Engagement and Climate Change Adaptation: A Review of the Research Literature_](https://doi.org/10.1002/wcc.645). In order to re-create the analysis, you'll need to install the following Python packages, using Python **3.7.x**:
+These are the materials comprising the scientometric analysis in [_Public Participation, Engagement and Climate Change Adaptation: A Review of the Research Literature_](https://doi.org/10.1002/wcc.645).
 
-- jupyterlab == 0.35.6
-- pandas == 0.24.0
-- matplotlib == 1.16.0
-- numpy == 1.16.2
-- nltk == 3.4
-- sklearn == 0.20.2
-- xlrd == 1.2.0
-- squarify == 0.4.2
-- statsmodels == 0.9.0
+The Python dependencies are declared in [pyproject.toml](pyproject.toml) and locked in [uv.lock](uv.lock). To install them, install [uv](https://docs.astral.sh/uv/), then run this command in the repository root:
+
+```sh
+uv sync
+```
+
+The original analysis used Python 3.7 and older package versions. The locked versions are more recent, so the output may differ slightly from the published figures.
 
 # Analysis
 
-When you've installed the packages, run `jupyter lab` or `jupyter notebook`. The primary analysis is contained in [WIREs.ipynb](WIREs.ipynb). A plaintext version of the dataset, derived from an ISI Web of Science search, can be found at [combined.csv](combined.csv)
+When you've installed the packages, run `uv run jupyter lab`. The primary analysis is contained in [WIREs.ipynb](WIREs.ipynb). A plaintext version of the dataset, derived from an ISI Web of Science search, can be found at [combined.csv](combined.csv)
 
 # DOI
 
